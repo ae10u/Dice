@@ -21,8 +21,8 @@ void draw()
 }
 void mousePressed()
 {
-  redraw();
   counter = 0;
+  redraw();
 }
 class Die //models one die
 {
